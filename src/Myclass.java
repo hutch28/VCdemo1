@@ -1,2 +1,3 @@
+// comment
 public class Myclass {
 }
